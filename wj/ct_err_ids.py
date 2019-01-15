@@ -6,7 +6,7 @@ import xlwt
 import os
 from datetime import datetime
 
-print('test')
+print('test2')
 
 weeks=['一','二','三','四','五']
 days=['00','01','02','03','04','05','06','07','08','09']
